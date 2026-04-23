@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DoctorPatientApp</string>
+
+    <string name="title">Add Patient</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="condition">Medical Condition</string>
+    <string name="score">Health Score</string>
+    <string name="save">Save Patient</string>
+    <string name="app_title">Doctor-Patient Management App</string>
+    <string name="select_role">Select Role</string>
+    <string name="doctor_login">Login as Doctor</string>
+    <string name="patient_login">Login as Patient</string>
+</resources>
